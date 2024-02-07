@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazrif-raim&label=Profile%20views&color=0e75b6&style=flat" alt="tazrif-raim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tazrif-raim" alt="tazrif-raim" /></a> </p>
-
 - 🔭 I’m currently working on **University Thesis on Neural Network**
 
 - 🌱 I’m currently learning **Tensorflow**
