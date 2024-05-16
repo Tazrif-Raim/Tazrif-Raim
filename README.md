@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazrif-raim&label=Profile%20views&color=0e75b6&style=flat" alt="tazrif-raim" /> </p>
 
-- 🤝 I’m looking for an **Backend/Fullstack** internship
-
 - 📫 Reach me through **tazrifraim@gmail.com**
 
 - 🎮 Minecraft, Genshin Impact, Palworld, Valorant
